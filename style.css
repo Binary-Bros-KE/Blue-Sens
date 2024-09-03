@@ -5517,3 +5517,8 @@ span.required {
 .header-socials i:hover {
 	color: #0363cd;
 }
+
+
+.logo h2{
+	font-size: 50px;
+}
